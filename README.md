@@ -1,7 +1,7 @@
 # Which customers may churn?
 
 Customer churn means whether an existing customer, user, player, subscriber or any kind of return client stops doing business or ends the relationship with a company. 
-Aim is to creating a classifier which can predict(based on previous info), if a new customer may likely churn in the future.
+Aim is to create a classifier which can predict(based on previous info) churn probability of a customer.
 
 A data from kaggle will be used for this model.
 This is a historical dataset. So there is a field stating whether that customer has churnded or not, for an unknown telecommunications company.
